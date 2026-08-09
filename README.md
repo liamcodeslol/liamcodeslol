@@ -2,11 +2,11 @@
 
 
 
-# hey, i'm liam 👋
+# hi, im liam 
 
 
 
-**developer • roblox enjoyer • professional project starter :3**
+**developer and i cant stick to one thing and lock in**
 
 
 
@@ -30,7 +30,7 @@ hey! i'm **Liam**  i like coding random shit
 
 
 
-i mostly mess around with **roblox, web coding, random tools, and whatever project sounds fun at 2am because i wanna do something cuz im bored** I don't really stick to one type of project for very long, so there's probably gonna little bit of everything around here
+i mostly mess around with **roblox, web coding, random tools, and whatever project sounds fun at 2am because i wanna do something cuz im bored** I don't stick to one type of project for long, so there's probably gonna little bit of everything around here
 
 
 
@@ -99,26 +99,6 @@ Some of my favorites:
 
 
 ---
-
-
-
-## stuff i've worked on
-
-
-
-> A completely random collection of projects, because apparently having one project at a time is illegal.
-
-
-
-| Project | What it is |
-
-| --------------------- | ------------------------------------------------------ |
-
-|  Roblox projects | Random systems and experiments |
-
-| Websites | Personal sites & project pages |
-
-| Tools | Little utilities that solve problems |
 
 
 
