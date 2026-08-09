@@ -46,7 +46,7 @@ i mostly mess around with **roblox, web coding, random tools, and whatever proje
 
 
 
-<img src="https://skillicons.dev/icons?i=lua,cs,python,html,css,js,git,github,cloudflare,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=lua,cs,python,html,css,js,git,github,cloudflare,vscode,discord&perline=10" />
 
 
 
