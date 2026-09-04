@@ -30,7 +30,7 @@ hey! i'm **Liam**  i like coding random shit
 
 
 
-i mostly mess around with **roblox, web coding, random tools, and whatever project sounds fun at 2am because i wanna do something cuz im bored** I don't stick to one type of project for long, so there's probably gonna little bit of everything around here
+i mostly mess around with **roblox, web coding, random tools, and whatever i wanna do at 2am because i wanna do something cuz im bored** i cant stick to one thing so like ima prolly make alot of projects
 
 
 
@@ -88,13 +88,12 @@ Some of my favorites:
 
 
 
-**Roblox shopping games**
 
  **Train games**
 
  **Random Roblox games**
 
- **Anything that looks interesting enough to waste a few hours on**
+
 
 
 
